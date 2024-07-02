@@ -1,0 +1,294 @@
+#topl{
+    font-size: 30px;
+    margin-left: 30px;
+}
+#navbarSupportedContent{
+    margin-left: 170px;
+}
+.nav-item{
+    margin-left: 40px;
+    
+}
+.nav-item a{
+    font-size: 18px;
+    font-family:  var(--body-font);
+ 
+}
+.ico{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.ico i{
+    margin-left: 20px;
+}
+#carouselExampleRide{
+    background-color: rgb(206, 212, 212);
+    
+}
+#h{
+    width: 600px;
+    height: 400px;
+    
+    margin-left: 90px;
+    margin-top: 90px;
+    
+}
+#h h1{
+    font-size: 80px;
+}
+#h button{
+    width: 250px;
+    height: 50px;
+    background-color: rgb(53, 52, 52);
+    color: white;
+    font-weight: bold;
+    border: none;
+    margin-top: 40px;
+}
+#carouselExampleRide img{
+    margin-left: 700px;
+    margin-top: -600px;
+}
+
+.sd{
+    height: 250px;
+    
+    display: flex;
+}
+.min{
+    height: 150px;
+    
+    width: 300px;
+    margin-top: 80px;
+    margin-left: 30px;
+
+}
+.min i{
+    font-size: 35px;
+    margin-top: 1px;
+    color: aqua;
+    margin-left: 5px;
+}
+.min h1{
+margin-left: 50px;
+margin-top: -40px;
+font-size: 20px;
+}
+.min p{
+    margin-left: 50px;
+    color: gray;
+}
+.mob{
+    display: flex;
+    margin-left: 20px;
+    
+    
+}
+.mob a:hover{
+    text-decoration: none;
+}
+.mob a{
+    color: black;
+    margin-left: 800px;
+    margin-top: 10px;
+}
+#ppp{
+    margin-left: -65px;
+    border: none;
+}
+.card{
+    border: none;
+    margin-left: -40px;
+}
+.ccc{
+    display: flex;
+}
+.watt{
+    display: flex;
+    padding: 50px;
+}
+.mob h1{
+    margin-left: 50px;
+}
+.iph{
+    
+    height: 600px;
+}
+.iph img{
+    width: 100%;
+    height:650px ;
+}
+#h1{
+    width: 400px;
+    height: 400px;
+    
+    margin-left: 90px;
+    margin-top: -500px;
+    
+}
+#h1 h1{
+    font-size: 80px;
+}
+#h1 button{
+    width: 250px;
+    height: 50px;
+    background-color: rgb(53, 52, 52);
+    color: white;
+    font-weight: bold;
+    border: none;
+    margin-top: 40px;
+}
+.post{
+    display: flex;
+
+}
+#sad{
+    margin-left: 80px;
+}
+.card{
+    margin-left: 20px;
+}
+
+#carouselExampleControlsNoTouching{
+    background-color: rgb(248, 250, 250);
+    height: 400px;
+    width: 1000px;
+    margin-left: 200px;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+margin-top: 200px;
+}
+.carousel-item{
+    
+    margin-top: 200px;
+    margin-left: 100px;
+    
+}
+blockquote{
+    font-size: 30px;
+    text-align: center;
+}
+#carouselExampleControlsNoTouching i{
+    font-size: 100px;
+    color: rgb(189, 182, 182);
+    margin-top: 50px;
+    margin-left: 450px;
+}
+.kkk{
+    background-color: black;
+    height: 150px;
+    width: 1000px;
+}
+.sub{
+    
+    width: 600px;
+    height: 130px;
+    margin-left: -400px;
+    padding: 10px;
+
+}
+.sub p{
+margin-left: -130px;
+color: white;
+}
+.sub h1{
+    margin-left: -200px;  
+    margin-top: 50px;
+    color: white;
+}
+.kkk input{
+    width: 250px;
+    height: 40px;
+    margin-left: 600px;
+    margin-top: 20px;
+    
+    
+}
+.kkk button{
+    width: 100px;
+    height: 40px;
+    margin-left: -10px;
+    color: aliceblue;
+    background-color: aqua;
+    font-weight: bold;
+    border: none;
+    margin-top: -100px;
+
+}
+.act{
+    height: 80px;
+    margin-top: -100px;
+    
+    
+}
+.our{
+    height: 400px;
+    
+    display: flex;
+}
+.our div{
+    
+    width: 250px;
+    height: 350px;
+    margin-left: 25px;
+}
+.our img{
+    width: 250px;
+    height: 350px;
+}
+.last{
+    height: 320px;
+    
+    display: flex;
+}
+.last div{
+    width: 350px;
+    height: 300px;
+    
+    margin-left: 20px;
+}
+.str p{
+    font-size: 22px;
+    color: rgb(122, 139, 155);
+    
+}
+.str img{
+    width: 200px;
+}
+.qui a{
+    text-decoration: none;
+    font-size: 18px;
+    padding-top: 10px;
+    line-height: 45px;
+    color: black;
+}
+.str i{
+    font-size: 40px;
+    margin-left: 10px;
+    color: rgb(122, 139, 155);
+}
+.foo{
+    height: 100px;
+    
+    display: flex;
+}
+.foot{
+    width: 500px;
+    height: 80px;
+    
+    margin-left: 30px;
+    font-size: 18px;
+}
+.foot img{
+    width: 40px;
+}
+.foot p{
+    color: rgb(122, 139, 155);
+}
+.last a:hover{
+color: aqua;
+}
+.last i:hover{
+    color: aqua;
+    }
+    
